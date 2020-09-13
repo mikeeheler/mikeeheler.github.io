@@ -3,10 +3,5 @@ description: this too shall pass
 
 baseurl: ""
 url: ""
-twitter_username: mikeeheler
-github_username:  mikeeheler
 
 markdown: kramdown
-theme: jekyll-theme-hacker
-plugins:
-  - jekyll-feed
